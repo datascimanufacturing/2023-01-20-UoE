@@ -17,6 +17,7 @@ instructor: ["Danai Korre", Kashyap Chhatbar] # boxed, comma-separated list of i
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["d.korre@ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, 
 collaborative_notes: https://pad.carpentries.org/20-1-2023_UoE # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+eventbrite:     https://www.eventbrite.co.uk/e/programming-ang-plotting-with-python-tickets-510925601227      # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
      
 ---
 
@@ -73,7 +74,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
-  src="https://www.eventbrite.co.uk/e/programming-ang-plotting-with-python-tickets-402698160037"
+  src="https://www.eventbrite.co.uk/e/programming-ang-plotting-with-python-tickets-510925601227"
   frameborder="0"
   width="100%"
   height="280px"
